@@ -1,0 +1,11 @@
+livestreamer (0.0.0-0~rzr1) raring; urgency=low
+
+  * http://rzr.online.fr/q/snapshot
+
+ -- Philippe Coval <rzr@gna.org>  Fri, 24 May 2013 00:02:47 +0200
+
+livestreamer (0.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Philippe Coval <rzr@gna.org>  Thu, 23 May 2013 23:49:48 +0200
