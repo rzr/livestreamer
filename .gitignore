@@ -24,3 +24,9 @@ dist
 *.swp
 docs/_build
 *.pc
+*~
+debian/*.log
+debian/*.subvars
+debian/*/*/*
+debian/files
+packaging/*/*
